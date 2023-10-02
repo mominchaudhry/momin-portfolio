@@ -28,7 +28,7 @@ function Intro({ header, contact, socials }: IntroProps) {
 							<img src={header.headshot} alt="headshot" className="headshot"></img>
 							<div className="media-body">
 								<div className="personal_text">
-									<h6>Hi, I'm</h6>
+									<h6>Hi, I&apos;m</h6>
 									<h3>{header.full_name}</h3>
 									<h4>{header.caption}</h4>
 									<p className="about_me">{header.description}</p>
