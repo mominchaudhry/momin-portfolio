@@ -1,6 +1,6 @@
 'use client'
-import Intro from '@/components/Intro';
-import Projects from '@/components/Projects';
+import Intro from '@/components/intro';
+import Projects from '@/components/projects';
 import axios from 'axios';
 import React, { useEffect } from 'react'
 import _ from 'lodash';
